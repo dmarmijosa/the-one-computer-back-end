@@ -1,0 +1,14 @@
+{
+  "name": "the-one-computer-back-end",
+  "version": "1.0.0",
+  "description": "\"Este es el backend que servira para the one computer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#backend"
+  ],
+  "author": "Danny Armijos, Angel Quizhpe",
+  "license": "ISC"
+}
